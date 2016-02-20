@@ -10,5 +10,5 @@
 *Results:*
 
 1. ![image](https://github.com/LongJDoing/Python/blob/master/Image%20Classifier/Version_1.1/src/result/re/1/sequence_texture/similar_shape/077_0.png)
-2. ![image](https://github.com/LongJDoing/Python/blob/master/Image%20Classifier/Version_1.1/src/result/re/1/sequence_texture/similar_shape/078_0.png)
+2. ![image](https://github.com/LongJDoing/Python/blob/master/Image%20Classifier/Version_1.1/src/result/re/1/trainer_cluster/%E5%9B%BE%E8%85%BE/0_0.png)
 3. ![image](https://github.com/LongJDoing/Python/blob/master/Image%20Classifier/Version_1.1/src/result/re/1/sequence_texture/similar_shape/190_0.png)
