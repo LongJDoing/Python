@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood_xulie13_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood_xulie11_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood_xulie12_5567.tga

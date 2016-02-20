@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\hailang_01_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huaind_hailang001_1951.tga

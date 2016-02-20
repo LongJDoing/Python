@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\3045_yuhei_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\3044_yubai_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\3045_yuhei_g_of3d.tga

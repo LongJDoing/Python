@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\dici_specular.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci_44_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_04_xulie_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shui01_8x4_ml.tga

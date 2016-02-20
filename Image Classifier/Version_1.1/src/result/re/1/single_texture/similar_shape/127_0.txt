@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\decal_explosion_jm_012.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\point_grow02.tga

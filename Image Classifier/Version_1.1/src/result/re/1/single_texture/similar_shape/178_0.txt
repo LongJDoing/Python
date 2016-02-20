@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\1548_4062_1.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\dici_diffuse.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qudong_5567_4189060_01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\daoguang3.tga

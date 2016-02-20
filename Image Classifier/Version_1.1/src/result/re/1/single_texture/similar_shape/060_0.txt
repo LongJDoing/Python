@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\1548_shou.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\2036_shou.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\guishou\y_3.tga

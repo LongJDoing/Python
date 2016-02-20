@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qudong_4309_6214830.tga
+D:\Python_Pg\Image_Classifier\Trainer_Data\光环\daoguang03_5567_ml.tga

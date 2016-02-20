@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\ba_pububack1_2032.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\gui_1383.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zidan_01_5567.tga

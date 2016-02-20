@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang10_5567.tga
+D:\Python_Pg\Image_Classifier\Trainer_Data\光环\daoguang06_5567.tga

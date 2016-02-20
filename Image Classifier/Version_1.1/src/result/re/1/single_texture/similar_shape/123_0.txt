@@ -1,0 +1,17 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\hn_416523_2_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\hn_416523_2_002_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\nengliangqiu_05_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qudong_6386_4169060_l.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\suolian_6273060_d_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\suolian_6273060_s_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\twt_jzzdsn06_a_5259_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16045\16045_001_g.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16065\16065_g.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\guishou\h_2.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\0000301.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\3030_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fireringdiffuse.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\guangqiu_01_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_57_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_75_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_81_5567.tga

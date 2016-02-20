@@ -1,0 +1,17 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\1548_huo8_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci31_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci35.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fashe08_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\foxiang_01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\guang01_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\guangyun_207_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\gui_19_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_tongdao.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_tongdao2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lingdang_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\long_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\smoke0400_2_s.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_82_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_83_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_12_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_13_5567.tga

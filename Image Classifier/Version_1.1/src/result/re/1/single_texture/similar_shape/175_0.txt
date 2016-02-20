@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci7_1197.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\daoguang13.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\daoguang16.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\daoguang4.tga

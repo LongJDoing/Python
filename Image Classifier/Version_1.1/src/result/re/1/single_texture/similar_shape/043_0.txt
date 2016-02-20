@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lasi_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16041\16041_001_g.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\beijingse_3631.tga

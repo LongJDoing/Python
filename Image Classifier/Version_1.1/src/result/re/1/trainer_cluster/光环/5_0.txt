@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lk_daoguang.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\m_daogauang.tga
+D:\Python_Pg\Image_Classifier\Trainer_Data\光环\16014_daoguang_01.tga

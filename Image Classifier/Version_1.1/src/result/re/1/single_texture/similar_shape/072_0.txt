@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_028_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shuidi03_2032.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16036\16036_001_g.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16036\16036_002_g.bmp

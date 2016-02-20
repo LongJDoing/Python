@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\dilie15_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\dilie11.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\dilie12_5567.tga

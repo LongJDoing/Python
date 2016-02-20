@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\gongjian_01_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\jianguan.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\jianguan_ml.tga

@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\975\975_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\975\glow_map.tga

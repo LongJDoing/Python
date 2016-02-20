@@ -1,0 +1,7 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16028_001_glow1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16050\16050_001_g.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\b_lihtingmode001_.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\guangyun_310_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\gui_16_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_84_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\x_xiexian07.bmp

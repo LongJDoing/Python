@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\050_000002.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\050_000003.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\050_000002.tga

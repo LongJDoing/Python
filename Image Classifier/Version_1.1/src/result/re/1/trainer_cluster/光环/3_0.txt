@@ -1,0 +1,7 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang04_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang05_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang17_5567_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang_19_glow_01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang_19_glow_02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\daoguang03_5567.tga
+D:\Python_Pg\Image_Classifier\Trainer_Data\光环\daoguang02_5567.tga

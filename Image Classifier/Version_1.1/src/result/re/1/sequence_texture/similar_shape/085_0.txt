@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huaban_001_2032.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huaban_005_2032.tga

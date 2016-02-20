@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ye5_6386.tga
+D:\Python_Pg\Image_Classifier\Trainer_Data\叶子\ye1.tga

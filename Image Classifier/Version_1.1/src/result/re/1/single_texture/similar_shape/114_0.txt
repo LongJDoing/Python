@@ -1,0 +1,10 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_dilie4.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\cave02_1383.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\hua_g1913_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\moji02_1913.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_6368_8.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\xuanwo_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yuanbao_02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yun_2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yun_3.tga

@@ -1,0 +1,9 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\rock.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\star109_ym_g0723.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\sword_01_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\sword_03_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuan_02_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\x_xiexian05.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ym_water_c.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yumao_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_33_5567.tga

@@ -1,0 +1,17 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\3.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4067_6134560_01_5567.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4357_lshoulder.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4357_rshoulder.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4367_lhand.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4367_rhand.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4845_4054_1.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\jian_glow_01.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\light_z_3660.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16025_d_1.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\guishou\m_1.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_b_3660.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_g_3660.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_w_6381.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_y_3660.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_z_3660.bmp
+D:\Python_Pg\Image_Classifier\Trainer_Data\均匀图像\4067_6134560_01_5567.thumbnail.jpg

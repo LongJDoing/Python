@@ -1,0 +1,10 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan27_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan6046_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huan01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huan02_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_14.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_53_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_59_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_zifu_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhong23245.tga

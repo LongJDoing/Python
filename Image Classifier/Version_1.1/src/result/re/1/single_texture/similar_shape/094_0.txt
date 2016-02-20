@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\flare01.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\glow01_3631.tga

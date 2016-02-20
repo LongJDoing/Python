@@ -1,0 +1,9 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\t_yan5_m.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci11.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci17.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci8_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_029_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_087_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shandian_2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\smoke16_4834.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\xiashui01_3660.tga

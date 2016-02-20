@@ -1,0 +1,14 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\3035_yunque_of3d.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4001_6110430_suishi.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\b21_009_t01.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\b21_009_t02.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\b3001_001_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\com_dj77b_5259_s_2.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\e21_009_t01.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\m_shuaguang5.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qudong_lianhua.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\shaguang_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\suolian_6273060_n_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16016_002_s.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16023_uv.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_diejing.bmp

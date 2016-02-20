@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\smoke_xulie_jm_015.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanwu_xulie19_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanwu_xulie9_1196.tga

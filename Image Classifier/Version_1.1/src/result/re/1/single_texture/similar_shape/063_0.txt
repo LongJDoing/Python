@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\tengman_01_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\tengman_02_ml.tga

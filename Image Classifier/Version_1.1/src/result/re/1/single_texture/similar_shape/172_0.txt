@@ -1,0 +1,6 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\dici08_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\0155_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\015_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci10.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\dust04.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\liuxing_ml.tga

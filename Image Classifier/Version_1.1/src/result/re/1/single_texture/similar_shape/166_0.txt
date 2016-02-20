@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\md_arrow_1380_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16050\16050_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16052\16052_001_d.tga

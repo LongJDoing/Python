@@ -1,0 +1,10 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4396_003_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\b3000_015_t_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\bing01\bing01.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4357_6266330_projectile.thumbnail.jpg
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4229_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qudong_6169230_6386_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\d_4049_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\p21_0001_0001.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16043\16043_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16057\16057_001_d.tga

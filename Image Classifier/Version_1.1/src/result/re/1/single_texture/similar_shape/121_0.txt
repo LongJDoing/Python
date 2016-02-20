@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\yanjiang08_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\yanjiang09_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\yanjiang10_5567.tga

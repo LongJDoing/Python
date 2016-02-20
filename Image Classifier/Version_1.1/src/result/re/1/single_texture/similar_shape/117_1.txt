@@ -1,0 +1,7 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\t_dilie003_2530_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_009.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\xuanwo_6368.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\x_xiexian02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\x_xiexian07_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\x_xiexian_02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ym_0110_gray_02.tga

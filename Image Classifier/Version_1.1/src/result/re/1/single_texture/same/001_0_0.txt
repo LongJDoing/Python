@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\014_000006_2032.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\014_000006_2032.tga

@@ -1,0 +1,12 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_light2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_light4.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\312_jian_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci21_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci8_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\jinjiteng_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lightning_jm_013.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_054_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_058_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\liuxing3_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\liuxing4_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_lw02.tga

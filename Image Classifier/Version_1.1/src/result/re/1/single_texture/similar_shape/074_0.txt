@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\liuxing2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\liuxing1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\liuxing1.tga

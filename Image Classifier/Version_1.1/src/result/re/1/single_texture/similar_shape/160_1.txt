@@ -1,0 +1,5 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_25_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_27_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_28_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_29_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_30_5567.tga

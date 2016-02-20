@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light133.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light136_5567.tga

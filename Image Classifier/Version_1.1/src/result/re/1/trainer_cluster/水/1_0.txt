@@ -1,0 +1,8 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0008.bmp
+D:\Python_Pg\Image_Classifier\Trainer_Data\水\water1_0007.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0005.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0006.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0003.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0004.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0001.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_1\water1_0002.bmp

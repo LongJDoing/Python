@@ -1,0 +1,5 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\5.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ando0048.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\du4.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\du4_6368.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light119.tga

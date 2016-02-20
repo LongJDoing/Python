@@ -1,0 +1,16 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\02.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16001_001_01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_chibang.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood4_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood_xulie2_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood_xulie3_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_xuelie5_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_xulie10_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lightning_007_xulie_jm.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lightning_xulie_jm.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_055_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shandian_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tianmo.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\wood_xulie_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanwu_xulie18_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanwu_xulie20_1196.tga

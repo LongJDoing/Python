@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci_43_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhuhuo01_4834.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16024_001_d_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\blood_xulie_01.tga

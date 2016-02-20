@@ -1,0 +1,6 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ym_0000001b_2032.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ym_data00373.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhuangtai_110.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_26_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_31_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_32_5567.tga

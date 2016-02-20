@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16052\16052_001_g.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\103_001_g.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\tengman_02_ml_n.tga

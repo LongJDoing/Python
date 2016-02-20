@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\855_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\855\855_001_d.tga

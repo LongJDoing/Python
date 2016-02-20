@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\long_grow_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\long_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\long.bmp

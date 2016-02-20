@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_79_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_80_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_mz1_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_mz2_ml.tga

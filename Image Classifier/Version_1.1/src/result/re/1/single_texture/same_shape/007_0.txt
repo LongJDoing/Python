@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\dust02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\dust02.tga

@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhuangtai_036.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhuangtai_081.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhuangtai_091.tga

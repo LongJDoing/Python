@@ -1,0 +1,7 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16027_d_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\devil_3660.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_015_0777.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_sprite_005_half.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\lightning2_xulie_jm.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_01_xulie_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanwu_xulie10_1196.tga

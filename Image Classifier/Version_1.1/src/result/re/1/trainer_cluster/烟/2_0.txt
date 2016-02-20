@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\smoke8.tga
+D:\Python_Pg\Image_Classifier\Trainer_Data\烟\smoke1_1196.tga

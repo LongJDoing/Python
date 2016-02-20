@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\zhuahen_2032.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zhuahen_2032.tga

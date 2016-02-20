@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\taoxin_6368_2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\taoxin_4845.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\taoxin_6368.tga

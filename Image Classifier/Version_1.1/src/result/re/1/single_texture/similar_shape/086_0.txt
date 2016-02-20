@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\dn_water_02_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\dn_water_03_1196.tga

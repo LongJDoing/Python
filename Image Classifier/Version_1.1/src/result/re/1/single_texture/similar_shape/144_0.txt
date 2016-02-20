@@ -1,0 +1,11 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\0002.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4174_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fantz_dj02_a_5784_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\stone.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16002_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16016_002_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16058\16048_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shaguang3_4845.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shaguang4_1383.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shuaguang3_4845.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanjiang2_1196.tga

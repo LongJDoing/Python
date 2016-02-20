@@ -1,0 +1,6 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\mengzu01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\powerup.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\qi2_g2137.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ring_30062_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shuizhu_0723.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\water_005_2032.tga

@@ -1,0 +1,15 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_dilie5.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\4845_bin.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_003_0777.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\flash_01_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huaduo_glow_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\hua_g1913.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huoqiu01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\moji_1913.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\rock4.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shuidi_4834.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\snow02_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\w_smoke_052.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\xing_6368_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ye3.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ym_data00303.tga

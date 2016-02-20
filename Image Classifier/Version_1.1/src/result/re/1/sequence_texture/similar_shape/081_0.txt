@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\shaguang_2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\shaguang_3.tga

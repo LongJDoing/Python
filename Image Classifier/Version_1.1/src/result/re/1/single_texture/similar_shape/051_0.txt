@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_sun.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\sun_2167.tga

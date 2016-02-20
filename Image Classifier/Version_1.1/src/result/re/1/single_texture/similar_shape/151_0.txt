@@ -1,0 +1,4 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\huaban_1_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\light_078_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\suishi1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ui_shoutou01_4834.tga

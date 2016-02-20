@@ -1,0 +1,13 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_09.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_10.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_10_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_11.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_11_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_14_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_16050_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_21_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_22_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_23_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_23_5568.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_34_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_ml.tga

@@ -1,0 +1,8 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\hn_416523_2_003_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\Hzboy_Face_C_D.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\longjuanfeng1_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16054\16054_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\guishou\h_1.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\guishou\h_3.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire02_1383.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\shui1.tga

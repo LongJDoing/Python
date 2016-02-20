@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\tileground02.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\tileground03.tga

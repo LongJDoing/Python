@@ -1,0 +1,2 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_xulie_0001.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\fire_xulie_1.tga

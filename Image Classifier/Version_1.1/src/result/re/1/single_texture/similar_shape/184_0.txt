@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_lw01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\zifu_02_ml.tga

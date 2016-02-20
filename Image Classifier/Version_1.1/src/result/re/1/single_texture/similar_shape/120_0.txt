@@ -1,0 +1,17 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4093_001_ml_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\moxing_4169230_03_d_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qudong_5567_4169060_02.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\stone2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16044\16044_001_g.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\2911_yellow.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci18_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_daoguang_6.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan22_1196.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\flash_13_of3d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\guanghuan13.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\guangqiu_02_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\point_glow01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\taoxin_6368_01.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_31_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_77_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\yanwu_04.tga

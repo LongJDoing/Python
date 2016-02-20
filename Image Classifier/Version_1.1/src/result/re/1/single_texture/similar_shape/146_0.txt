@@ -1,0 +1,17 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\4001_1_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\ice_ground2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\shaguang_1383.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\shaguang_4845.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\tengman_05_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\weapon.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\weapon_524_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\yansi_1.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\ym_data00079.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16008_001_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16013_mask2.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\16045\16045_002_d.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\fabao\977\ston.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\guishou\y_2.bmp
+D:\Python_Pg\Image_Classifier\effect\effect\tex\229-smoke2051.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\tuteng_35_3631.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\wave001_3660.tga

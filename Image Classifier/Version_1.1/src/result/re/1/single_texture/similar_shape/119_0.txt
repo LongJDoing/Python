@@ -1,0 +1,5 @@
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\daoguang11_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\element\model\track\qd_4027_daoguang02_6386.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan49_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan50_5567.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\d_guanghuan51_5567.tga

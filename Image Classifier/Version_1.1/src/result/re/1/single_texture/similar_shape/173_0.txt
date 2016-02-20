@@ -1,0 +1,3 @@
+D:\Python_Pg\Image_Classifier\effect\effect\tex\aura_jm_010.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\canjiang1_ml.tga
+D:\Python_Pg\Image_Classifier\effect\effect\tex\ci23_1196.tga
